@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="controls" horiz-adv-x="1000" >
+<font-face font-family="controls" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="left-open-mini" unicode="&#xe800;" d="m252 180q26-26 0-48q-26-26-48 0l-192 194q-24 24 0 50l192 194q22 26 48 0q26-22 0-48l-156-172z" horiz-adv-x="265" />
+<glyph glyph-name="right-open-mini" unicode="&#xe801;" d="m13 180l158 170l-158 172q-26 26 0 48q26 26 48 0l192-194q24-26 0-50l-192-194q-22-26-48 0q-26 22 0 48z" horiz-adv-x="265" />
+<glyph glyph-name="right-dir-1" unicode="&#xe802;" d="m0 580l400-230l-400-230l0 460z" horiz-adv-x="400" />
+<glyph glyph-name="pause" unicode="&#xe803;" d="m440 700q90 0 90-64l0-570q0-66-90-66t-90 66l0 570q0 64 90 64z m-350 0q90 0 90-64l0-570q0-66-90-66t-90 66l0 570q0 64 90 64z" horiz-adv-x="530" />
+</font>
+</defs>
+</svg>
